@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @raj-alphastream
 - 👀 I’m interested in financial apps (at the mo.)
-- 🌱 I’m currently learning how to code review Java, React
-- 💞️ I’m looking to collaborate on Terminal App (web & mobile)
-- 📫 How to reach me ... Slack is best way:)
+- 🌱 I’m currently learning Solidity and interested in Web3 world of Daaps
+- 💞️ I’m looking to collaborate on our Terminal App (web & mobile)
+- 📫 How to reach me ... Drop a line to hello (at) innovatefromzero .com or find me on LinkedIn https://www.linkedin.com/in/rajsark/ 
 
 <!---
 raj-alphastream/raj-alphastream is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
