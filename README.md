@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @raj-alphastream
+- 👋 Hi, I’m @raj-sark
 - 👀 I’m interested in financial apps (at the mo.)
 - 🌱 I’m currently learning Solidity and interested in Web3 world of Daaps
 - 💞️ I’m looking to collaborate on our Terminal App (web & mobile)
